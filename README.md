@@ -1,4 +1,4 @@
-ANDROID: <img src="![image](https://github.com/user-attachments/assets/9522865f-9673-46ae-9129-d6ffe5014dda)"alt="![image](https://github.com/user-attachments/assets/0f79f687-b486-45c5-ab0d-6963c33e58a9)"width="400px">
+ANDROID: <img src="(https://github.com/user-attachments/assets/9522865f-9673-46ae-9129-d6ffe5014dda)"alt="(https://github.com/user-attachments/assets/0f79f687-b486-45c5-ab0d-6963c33e58a9)"width="400px">
 
     
 
