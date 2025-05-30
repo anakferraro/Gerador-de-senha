@@ -1,5 +1,4 @@
-ANDROID: <img src="![Screenshot_1748575353](https://github.com/user-attachments/assets/dbe3b591-e42d-4a4b-a07d-66fe14532543)
-" alt="Image Example" width="400px">
+ANDROID: <img src="![Screenshot_1748575353]" alt="Image Example" width="400px">
 
     
 
