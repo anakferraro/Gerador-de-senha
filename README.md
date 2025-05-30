@@ -1,3 +1,16 @@
+IOS:
+![image](https://github.com/user-attachments/assets/40c3841d-7dab-49e8-b707-a2adfe044eb6)
+
+ANDROID: 
+![image](https://github.com/user-attachments/assets/806e7bcf-d27c-4900-abe2-1e42652cec96)
+
+
+
+
+
+
+
+
 Gerador de Senhas Seguro 
 
 [![Build Status](https://github.com/anakferraro/16-04/actions/workflows/build.yml/badge.svg)](https://github.com/anakferraro/16-04/actions/workflows/build.yml)
