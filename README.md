@@ -1,6 +1,10 @@
-ANDROID: ![image](https://github.com/user-attachments/assets/e8eea9cb-ed3b-49ca-a2b8-dad24e988470)      
+ANDROID: <img src="![image](https://github.com/user-attachments/assets/72917c20-8a23-4da6-a203-b4943ac546af)
+" width="300">
+    
 
-IOS: ![image](https://github.com/user-attachments/assets/806e7bcf-d27c-4900-abe2-1e42652cec96)
+IOS: <img src="![image](https://github.com/user-attachments/assets/030e35e9-6a1b-4e00-af83-6e062006508e)
+" width="300">
+
 
 
 
