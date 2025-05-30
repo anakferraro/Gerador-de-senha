@@ -1,10 +1,7 @@
-ANDROID: <img src="(https://github.com/user-attachments/assets/9522865f-9673-46ae-9129-d6ffe5014dda)"alt="(https://github.com/user-attachments/assets/0f79f687-b486-45c5-ab0d-6963c33e58a9)"width="400px">
-
+ANDROID: 
     
 
-IOS: <img src="![WhatsAppImage2025-05-30at001003](https://github.com/user-attachments/assets/0ed9826f-d9df-43a7-be13-546e568b8f4d)
-" width="300">
-
+IOS: <img src="![image](https://github.com/user-attachments/assets/d08d0e3c-65de-4d3e-849d-cf7896851e57)" alt="![image](https://github.com/user-attachments/assets/1747dd37-4b15-4141-985e-388893c05594)" width="400px">
 
 
 
