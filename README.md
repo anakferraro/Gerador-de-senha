@@ -25,9 +25,13 @@ Este é um aplicativo **React Native** desenvolvido com **Expo**, que permite ge
  Funcionalidades
 
 ✅ Geração de senhas seguras e aleatórias com tamanho customizável.
+
 ✅ Cópia da senha para a área de transferência.
+
 ✅ Salvamento seguro de senhas localmente, com `expo-secure-store`.
+
 ✅ Visualização de senhas salvas.
+
 ✅ Interface estilizada com `expo-linear-gradient`.
 
 ---
