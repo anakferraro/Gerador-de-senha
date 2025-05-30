@@ -1,7 +1,8 @@
-IOS:
-![image](https://github.com/user-attachments/assets/40c3841d-7dab-49e8-b707-a2adfe044eb6)
-
 ANDROID: 
+![image](https://github.com/user-attachments/assets/e8eea9cb-ed3b-49ca-a2b8-dad24e988470)
+
+
+IOS: 
 ![image](https://github.com/user-attachments/assets/806e7bcf-d27c-4900-abe2-1e42652cec96)
 
 
