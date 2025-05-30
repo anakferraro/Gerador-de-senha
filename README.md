@@ -11,7 +11,7 @@ IOS: <img src="https://github.com/user-attachments/assets/6a9dde0d-c9cf-4cba-9a3
 
 Gerador de Senhas Seguro 
 
-[![Build Status](https://github.com/anakferraro/16-04/actions/workflows/build.yml/badge.svg)](https://github.com/anakferraro/16-04/actions/workflows/build.yml) 
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
 [![npm version](https://img.shields.io/npm/v/seu-pacote.svg)](https://www.npmjs.com/package/seu-pacote) 
 [![Issues](https://img.shields.io/github/issues/anakferraro/16-04.svg)](https://github.com/anakferraro/16-04/issues)
